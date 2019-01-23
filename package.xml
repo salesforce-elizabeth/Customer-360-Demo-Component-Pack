@@ -54,7 +54,7 @@
     <types>
         <members>Contact-Cust360 Contact Layout</members>
         <members>Custom_Activity__c-Custom Activity Layout</members>
-        <members>PersonAccount-Cust360 Person Account Layout</members>
+
         <name>Layout</name>
     </types>
     <types>
