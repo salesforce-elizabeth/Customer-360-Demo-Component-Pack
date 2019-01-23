@@ -235,10 +235,10 @@
         <fields>NAME</fields>
         <relatedList>Custom_Activity__c.Contact__c</relatedList>
     </relatedLists>
-    <relatedLists>
-        <fields>NAME</fields>
-        <relatedList>Cart_Item__c.Contact__c</relatedList>
-    </relatedLists>
+    
+    
+    
+    
     <relatedLists>
         <relatedList>RelatedFileList</relatedList>
     </relatedLists>
